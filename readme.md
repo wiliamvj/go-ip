@@ -5,7 +5,7 @@ This is a command-line application written in Go that allows you to search for I
 To use the application, you must have Go installed on your system. You can run the following command to download and install the application:
 
 ```go
-go get github.com/wiliamvj/go-ip-search
+go get github.com/wiliamvj/go-ip
 ```
 Once installed, you can run the application using the following command:
 
